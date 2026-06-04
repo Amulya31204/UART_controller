@@ -154,6 +154,9 @@ This design is fully synthesizable. To generate a utilization and timing report:
 Expected resource usage on Artix-7 (xc7a35t) is minimal — a few flip-flops and LUTs per module.
 
 ---
+## FSM 
+<img width="1440" height="1640" alt="image" src="https://github.com/user-attachments/assets/ca2b9b48-7c06-43cc-913e-142a10f24980" />
+
 
 ## License
 
